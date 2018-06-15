@@ -8,6 +8,7 @@ Self-study following [Artificial Intelligence. A Modern Approcah](https://www.am
 
 
 ## Contents
-1. Search Algorithms
+1. Search Algorithms.
+
    Ch.3 - Solving Problems by Searching
 

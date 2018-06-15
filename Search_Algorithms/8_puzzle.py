@@ -1,7 +1,12 @@
 """
-driver_3.py
+8_puzzle.py
 @param method: search method to use (bfs/dfs/ast)
 @param board: comma separated list of integers containing no spaces
+
+Solutions:
+- breadth-first-search (bfs)
+- depth-first-search (dfs)
+- a* with Manhattan distance heruistic (ast)
 """
 import sys, time, resource
 from math import sqrt,floor
