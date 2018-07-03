@@ -1,5 +1,5 @@
 # Adversarial Search
 
-### 20148-puzzle
+### 20-48-puzzle
 
-Solution to the [2038-puzzle](gabrielecirulli.github.io/2048 ) using Minma with Alpha-Beta Pruning.
+Solution to the [2048-puzzle](gabrielecirulli.github.io/2048 ) using Minma with Alpha-Beta Pruning.
