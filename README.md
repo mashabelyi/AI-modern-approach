@@ -12,3 +12,6 @@ Self-study following [Artificial Intelligence. A Modern Approcah](https://www.am
 
    Ch.3 - Solving Problems by Searching
 
+2. Adversarial Search.
+
+	Ch.5 - Adversarial Search
